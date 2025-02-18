@@ -51,7 +51,7 @@ body {
 
 img {
   border-radius: 50%;
-  width: 35%;
+  width: 30%;
   max-width: 100%;
 }
 
@@ -81,7 +81,7 @@ h1 {
 .link {
   text-decoration: none;
   background-color: var(--link-color);
-  width: 100%;
+  width: 70%;
   text-align: center;
   padding: 15px;
   border-radius: 10px;
