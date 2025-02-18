@@ -4,7 +4,7 @@
 
 The **Social Links Profile** is a simple, visually appealing web application that showcases a user's social media links and personal information. Built with HTML and CSS, this project emphasizes responsive design, ensuring that the user interface is optimized for both mobile and desktop devices.
 
-![Design](/public/img/Screenshot.jpg)
+![Design](/img/Screenshot.jpg)
 
 ## Table of Contents
 
