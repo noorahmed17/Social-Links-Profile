@@ -81,7 +81,7 @@ h1 {
 .link {
   text-decoration: none;
   background-color: var(--link-color);
-  width: 70%;
+  width: 100%;
   text-align: center;
   padding: 15px;
   border-radius: 10px;
